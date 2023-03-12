@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        <h1>Things:</h1>
+        {% for thing in things %}
+        <div><p>{{ thing.name }} located at {{ thing.local }} has sensors:</p>
+            {% for sensor in thing.sensors %}
+                <div>{{ sensor.sensor_name }}</div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </body>
+</html>
+
