@@ -109,7 +109,7 @@ Lola,F,493
 Lois,F,488
 Sallie,F,488
 Marjorie,F,480
-Betty,F,474
+Betty,F,473
 Ollie,F,462
 Inez,F,459
 Lizzie,F,458
@@ -320,10 +320,10 @@ Lily,F,89
 Catharine,F,88
 Eloise,F,88
 Abbie,F,87
-Eileen,F,87
 Erna,F,87
 Eugenia,F,87
 Golda,F,87
+Eileen,F,86
 Linda,F,86
 Alvina,F,85
 Lona,F,85
@@ -1980,7 +1980,7 @@ Francis,M,543
 Lawrence,M,535
 Elmer,M,520
 Alfred,M,506
-Andrew,M,480
+Andrew,M,479
 Sam,M,479
 Leo,M,456
 Theodore,M,450
@@ -2106,8 +2106,8 @@ Orville,M,94
 Franklin,M,92
 Mark,M,92
 Nathaniel,M,92
-Matthew,M,90
 Roosevelt,M,90
+Matthew,M,89
 Irvin,M,88
 Nicholas,M,88
 Perry,M,87
@@ -2205,8 +2205,8 @@ Loren,M,44
 Marcus,M,44
 Myron,M,44
 Aubrey,M,43
-Ronald,M,43
 Boyd,M,42
+Ronald,M,42
 Carlton,M,41
 Edmond,M,41
 Levi,M,41

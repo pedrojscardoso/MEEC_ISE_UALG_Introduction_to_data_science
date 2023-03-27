@@ -1,4 +1,4 @@
-Mary,F,13446
+Mary,F,13447
 Anna,F,5950
 Helen,F,4023
 Margaret,F,3931
@@ -26,7 +26,7 @@ Martha,F,2096
 Pearl,F,1958
 Edith,F,1940
 Myrtle,F,1938
-Frances,F,1834
+Frances,F,1833
 Nellie,F,1833
 Esther,F,1803
 Elsie,F,1795
@@ -1862,7 +1862,7 @@ Peter,M,412
 Frederick,M,406
 Claude,M,389
 Ray,M,380
-Chester,M,378
+Chester,M,377
 Lewis,M,377
 Clyde,M,370
 Edwin,M,346
@@ -1876,7 +1876,7 @@ Homer,M,296
 Lester,M,295
 Otto,M,283
 Harvey,M,282
-Jim,M,279
+Jim,M,278
 Clifford,M,272
 Luther,M,269
 Jacob,M,266

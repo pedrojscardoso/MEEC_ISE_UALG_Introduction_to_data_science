@@ -13,7 +13,7 @@ Florence,F,4424
 Lillian,F,4367
 Rose,F,4151
 Ethel,F,4141
-Evelyn,F,4075
+Evelyn,F,4076
 Edna,F,3957
 Gladys,F,3933
 Louise,F,3725
@@ -2875,7 +2875,7 @@ Joseph,M,6488
 Charles,M,5725
 Frank,M,4314
 Edward,M,4164
-Thomas,M,3293
+Thomas,M,3292
 Henry,M,3167
 Walter,M,3074
 Harry,M,2538
@@ -2888,7 +2888,7 @@ Raymond,M,2088
 Richard,M,2030
 Louis,M,1838
 Fred,M,1808
-Clarence,M,1774
+Clarence,M,1775
 Ralph,M,1674
 Jack,M,1668
 Carl,M,1574
@@ -2905,7 +2905,7 @@ Donald,M,1275
 Lawrence,M,1221
 Michael,M,1159
 Alfred,M,1158
-Kenneth,M,1149
+Kenneth,M,1148
 Herbert,M,1125
 Andrew,M,1098
 Eugene,M,1058

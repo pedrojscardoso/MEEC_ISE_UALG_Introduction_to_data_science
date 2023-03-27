@@ -80,7 +80,7 @@ Beulah,F,573
 Sallie,F,571
 Ruby,F,540
 Gladys,F,525
-Georgia,F,512
+Georgia,F,513
 Nancy,F,512
 Flora,F,510
 Emily,F,509
@@ -1556,7 +1556,7 @@ Charlie,M,797
 Ernest,M,774
 Willie,M,758
 Earl,M,744
-Richard,M,744
+Richard,M,743
 David,M,731
 Carl,M,693
 Joe,M,682

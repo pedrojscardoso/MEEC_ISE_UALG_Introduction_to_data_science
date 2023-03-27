@@ -7,7 +7,7 @@ Elizabeth,F,4121
 Dorothy,F,3937
 Mildred,F,3758
 Marie,F,3643
-Alice,F,3611
+Alice,F,3610
 Florence,F,3478
 Ethel,F,3401
 Lillian,F,3185
@@ -46,7 +46,7 @@ Beatrice,F,1661
 Evelyn,F,1661
 Julia,F,1642
 Nellie,F,1626
-Laura,F,1567
+Laura,F,1566
 Lucille,F,1533
 Lillie,F,1481
 Ella,F,1438
@@ -142,7 +142,7 @@ Irma,F,428
 Iva,F,422
 Rachel,F,421
 Harriet,F,413
-Madeline,F,411
+Madeline,F,412
 Caroline,F,407
 Flossie,F,406
 Rebecca,F,402
@@ -162,7 +162,7 @@ Mollie,F,344
 Ola,F,344
 Victoria,F,343
 Erma,F,330
-Susan,F,321
+Susan,F,320
 Leola,F,319
 Alta,F,316
 Amanda,F,311
@@ -325,9 +325,9 @@ Corine,F,107
 Lucinda,F,107
 Helena,F,106
 Jimmie,F,106
-Linda,F,106
 Peggy,F,106
 Isabella,F,105
+Linda,F,105
 Nona,F,105
 Joan,F,104
 Vesta,F,103
@@ -376,10 +376,10 @@ Rosella,F,83
 Golda,F,81
 Mittie,F,81
 Iola,F,80
-Joyce,F,80
 Mona,F,80
 Elaine,F,79
 Georgie,F,79
+Joyce,F,79
 Avis,F,78
 Beryl,F,78
 Evie,F,78
@@ -2232,7 +2232,7 @@ Zilda,F,5
 Zilphia,F,5
 Zoie,F,5
 Zulema,F,5
-John,M,8061
+John,M,8059
 William,M,6495
 James,M,6042
 George,M,4256
@@ -2269,14 +2269,14 @@ Charlie,M,801
 Howard,M,735
 Francis,M,685
 Herbert,M,681
-Lawrence,M,670
+Lawrence,M,669
 Andrew,M,620
 Sam,M,620
 Elmer,M,602
 Eugene,M,593
 Alfred,M,591
 Floyd,M,523
-Michael,M,514
+Michael,M,513
 Leo,M,512
 Leonard,M,495
 Anthony,M,490
@@ -2335,7 +2335,7 @@ Marvin,M,215
 Horace,M,212
 Oliver,M,211
 Alexander,M,210
-Vernon,M,209
+Vernon,M,208
 Guy,M,203
 Maurice,M,202
 Hugh,M,200
@@ -2371,7 +2371,7 @@ Hubert,M,163
 Wallace,M,162
 Manuel,M,157
 Rufus,M,157
-Dan,M,153
+Dan,M,152
 Mack,M,151
 Irving,M,148
 Johnie,M,148
@@ -2524,10 +2524,10 @@ Joel,M,48
 Freeman,M,47
 Ike,M,47
 Loren,M,47
-Mitchell,M,47
 Rosevelt,M,47
 Solomon,M,47
 Freddie,M,46
+Mitchell,M,46
 Ramon,M,46
 Rex,M,46
 Anderson,M,45

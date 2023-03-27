@@ -4,7 +4,7 @@ Margaret,F,6096
 Anna,F,5502
 Ruth,F,5140
 Dorothy,F,4326
-Elizabeth,F,4321
+Elizabeth,F,4320
 Alice,F,4192
 Mildred,F,3873
 Florence,F,3691
@@ -38,7 +38,7 @@ Myrtle,F,1921
 Josephine,F,1900
 Minnie,F,1777
 Elsie,F,1771
-Agnes,F,1759
+Agnes,F,1758
 Eva,F,1758
 Ida,F,1753
 Sarah,F,1697
@@ -150,8 +150,8 @@ Iva,F,400
 Rebecca,F,397
 Geneva,F,396
 Irma,F,391
-Maria,F,389
 Juanita,F,388
+Maria,F,388
 Etta,F,384
 Sophie,F,384
 Naomi,F,372
@@ -729,7 +729,6 @@ Mavis,F,26
 Myrtice,F,26
 Ressie,F,26
 Arvilla,F,25
-Deborah,F,25
 Fairy,F,25
 Gene,F,25
 Grayce,F,25
@@ -742,6 +741,7 @@ Myrna,F,25
 Valerie,F,25
 Charles,F,24
 Corrie,F,24
+Deborah,F,24
 Dorcas,F,24
 Fae,F,24
 Felicia,F,24
@@ -2218,8 +2218,8 @@ Zell,F,5
 Zelpha,F,5
 Zeola,F,5
 Zetha,F,5
-John,M,8265
-William,M,6567
+John,M,8264
+William,M,6566
 James,M,5908
 George,M,4201
 Robert,M,3635
@@ -2367,7 +2367,7 @@ Mike,M,141
 Percy,M,141
 Emil,M,139
 Jimmie,M,139
-Matthew,M,137
+Matthew,M,136
 Bennie,M,133
 Mack,M,132
 Steve,M,131
@@ -2490,12 +2490,12 @@ Troy,M,54
 Clark,M,53
 Cleveland,M,53
 Silas,M,53
-Timothy,M,53
 Cleo,M,52
 Edmond,M,52
 Harley,M,52
 Myron,M,52
 Ruben,M,52
+Timothy,M,52
 Dock,M,51
 Freddie,M,51
 Abe,M,50

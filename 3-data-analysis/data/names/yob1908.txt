@@ -1,4 +1,4 @@
-Mary,F,18666
+Mary,F,18665
 Helen,F,8439
 Margaret,F,6976
 Ruth,F,6180
@@ -64,7 +64,7 @@ Marion,F,1349
 Lena,F,1331
 Eleanor,F,1302
 Carrie,F,1239
-Stella,F,1215
+Stella,F,1216
 Vera,F,1204
 Blanche,F,1162
 Doris,F,1155
@@ -129,7 +129,7 @@ Nettie,F,543
 Goldie,F,538
 Jane,F,531
 Katie,F,531
-Kathleen,F,526
+Kathleen,F,527
 Sophie,F,523
 May,F,515
 Barbara,F,514
@@ -953,7 +953,6 @@ Ether,F,18
 Eveline,F,18
 Floretta,F,18
 Isla,F,18
-Laurie,F,18
 Lynn,F,18
 Margarete,F,18
 Marianna,F,18
@@ -985,6 +984,7 @@ Jessica,F,17
 Jossie,F,17
 Launa,F,17
 Laurette,F,17
+Laurie,F,17
 Leda,F,17
 Leoma,F,17
 Libbie,F,17
@@ -2433,7 +2433,7 @@ Zephyr,F,5
 Zetha,F,5
 Zylpha,F,5
 John,M,9342
-William,M,7528
+William,M,7529
 James,M,7012
 George,M,4584
 Robert,M,4219
@@ -2475,7 +2475,7 @@ Kenneth,M,692
 Anthony,M,690
 Elmer,M,689
 Eugene,M,689
-Michael,M,689
+Michael,M,688
 Donald,M,664
 Sam,M,644
 Theodore,M,643
@@ -2498,7 +2498,7 @@ Benjamin,M,480
 Edwin,M,477
 Oscar,M,476
 Chester,M,461
-Ray,M,447
+Ray,M,446
 Frederick,M,438
 Claude,M,428
 Bernard,M,414

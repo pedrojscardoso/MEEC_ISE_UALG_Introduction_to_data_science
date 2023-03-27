@@ -20,7 +20,7 @@ Bessie,F,2280
 Gladys,F,2228
 Rose,F,2197
 Mabel,F,2127
-Gertrude,F,2111
+Gertrude,F,2110
 Frances,F,2058
 Minnie,F,2036
 Hazel,F,2033
@@ -1871,7 +1871,7 @@ Richard,M,744
 Ralph,M,742
 Samuel,M,704
 Charlie,M,678
-David,M,647
+David,M,646
 Herbert,M,590
 Howard,M,589
 Jack,M,582

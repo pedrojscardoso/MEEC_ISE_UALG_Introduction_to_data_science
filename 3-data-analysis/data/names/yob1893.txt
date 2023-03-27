@@ -1652,7 +1652,7 @@ Zera,F,5
 Zeta,F,5
 John,M,8049
 William,M,7223
-James,M,5029
+James,M,5030
 George,M,4320
 Charles,M,3723
 Joseph,M,2997
@@ -1691,7 +1691,7 @@ Alfred,M,530
 Daniel,M,522
 Andrew,M,520
 Herbert,M,519
-Benjamin,M,481
+Benjamin,M,482
 Sam,M,481
 Herman,M,455
 Leo,M,448

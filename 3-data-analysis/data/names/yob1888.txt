@@ -473,7 +473,6 @@ Idella,F,28
 Ione,F,28
 Kitty,F,28
 Liza,F,28
-Paula,F,28
 Adda,F,27
 Celeste,F,27
 Eddie,F,27
@@ -481,6 +480,7 @@ Elda,F,27
 Eugenie,F,27
 Jewell,F,27
 Lovie,F,27
+Paula,F,27
 Susanna,F,27
 Vada,F,27
 Albina,F,26
@@ -767,7 +767,6 @@ Florine,F,12
 Gene,F,12
 Goldia,F,12
 Jesse,F,12
-Joyce,F,12
 Juliet,F,12
 Kizzie,F,12
 Lissie,F,12
@@ -814,6 +813,7 @@ Freida,F,11
 Georgina,F,11
 Hassie,F,11
 Icy,F,11
+Joyce,F,11
 Juana,F,11
 Leatha,F,11
 Lonnie,F,11

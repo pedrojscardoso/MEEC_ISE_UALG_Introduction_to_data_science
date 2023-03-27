@@ -1,6 +1,6 @@
 Mary,F,19259
 Helen,F,9250
-Margaret,F,7359
+Margaret,F,7358
 Ruth,F,6509
 Dorothy,F,6253
 Anna,F,5804
@@ -49,11 +49,11 @@ Pauline,F,1896
 Sarah,F,1845
 Minnie,F,1779
 Nellie,F,1768
-Lillie,F,1634
+Lillie,F,1635
 Katherine,F,1557
 Willie,F,1549
 Laura,F,1524
-Ann,F,1478
+Ann,F,1477
 Eleanor,F,1460
 Marion,F,1445
 Mattie,F,1407
@@ -113,7 +113,7 @@ Olive,F,645
 Wilma,F,645
 Marian,F,641
 Lola,F,634
-Jane,F,627
+Jane,F,626
 Eunice,F,625
 Nancy,F,610
 Rosie,F,604
@@ -263,7 +263,7 @@ Lenora,F,189
 Cecile,F,186
 Bertie,F,184
 Kate,F,183
-Annette,F,182
+Annette,F,181
 Madge,F,180
 Augusta,F,179
 Hester,F,179
@@ -2546,13 +2546,13 @@ Zillah,F,5
 Zilphia,F,5
 Zollie,F,5
 Zuma,F,5
-John,M,9591
-William,M,7914
-James,M,7594
+John,M,9590
+William,M,7913
+James,M,7595
 George,M,4688
 Robert,M,4563
 Joseph,M,4348
-Charles,M,4030
+Charles,M,4029
 Frank,M,3244
 Edward,M,2935
 Thomas,M,2468
@@ -2729,8 +2729,8 @@ Roger,M,128
 Douglas,M,126
 Forrest,M,125
 Juan,M,123
-Bruce,M,122
 Ted,M,122
+Bruce,M,121
 Antonio,M,120
 Dennis,M,120
 Pete,M,120

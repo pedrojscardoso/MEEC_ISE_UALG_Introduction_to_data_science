@@ -7,7 +7,7 @@ Dorothy,F,4967
 Elizabeth,F,4624
 Mildred,F,4277
 Alice,F,4107
-Marie,F,3879
+Marie,F,3880
 Florence,F,3750
 Ethel,F,3698
 Lillian,F,3542
@@ -56,7 +56,7 @@ Katherine,F,1413
 Willie,F,1394
 Mae,F,1375
 Alma,F,1347
-Mattie,F,1320
+Mattie,F,1319
 Jessie,F,1314
 Carrie,F,1283
 Ann,F,1264
@@ -102,7 +102,7 @@ Hilda,F,702
 Inez,F,680
 Genevieve,F,678
 Nora,F,676
-Charlotte,F,666
+Charlotte,F,667
 Lola,F,639
 Alberta,F,627
 Flora,F,617
@@ -2398,7 +2398,7 @@ Zoa,F,5
 Zonnie,F,5
 Zuma,F,5
 John,M,8983
-William,M,6905
+William,M,6904
 James,M,6707
 George,M,4445
 Robert,M,4020
@@ -2407,7 +2407,7 @@ Joseph,M,3844
 Frank,M,2943
 Edward,M,2576
 Henry,M,2203
-Thomas,M,2175
+Thomas,M,2174
 Walter,M,2095
 Willie,M,1968
 Harry,M,1813
@@ -2425,7 +2425,7 @@ Louis,M,1111
 Jack,M,1019
 Carl,M,1018
 Earl,M,1006
-Ralph,M,998
+Ralph,M,997
 Ernest,M,978
 David,M,945
 Samuel,M,892
@@ -2445,7 +2445,7 @@ Elmer,M,616
 Anthony,M,593
 Kenneth,M,589
 Michael,M,586
-Herman,M,562
+Herman,M,561
 Leroy,M,550
 Leonard,M,547
 Daniel,M,528

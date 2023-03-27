@@ -118,7 +118,7 @@ Eunice,F,502
 Lottie,F,497
 Sylvia,F,497
 Katie,F,494
-Mable,F,486
+Mable,F,485
 Jean,F,483
 Sallie,F,483
 Genevieve,F,481
@@ -392,9 +392,9 @@ Rae,F,73
 Molly,F,72
 Eddie,F,70
 Ivy,F,70
-Billie,F,68
 Mittie,F,68
 Zelda,F,68
+Billie,F,67
 Artie,F,66
 Bernadine,F,66
 Eleanore,F,66
@@ -2171,8 +2171,8 @@ Robert,M,3414
 Charles,M,3406
 Joseph,M,3291
 Frank,M,2799
-Edward,M,2334
-Henry,M,2086
+Edward,M,2335
+Henry,M,2085
 Thomas,M,2057
 Walter,M,1873
 Harry,M,1722
@@ -2205,7 +2205,7 @@ Elmer,M,620
 Sam,M,603
 Alfred,M,600
 Leo,M,552
-Andrew,M,547
+Andrew,M,546
 Eugene,M,541
 Lee,M,532
 Leonard,M,508

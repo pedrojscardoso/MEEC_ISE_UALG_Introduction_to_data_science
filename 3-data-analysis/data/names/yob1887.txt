@@ -46,7 +46,7 @@ Ada,F,910
 Agnes,F,896
 Lula,F,891
 Dora,F,842
-Elsie,F,832
+Elsie,F,833
 Josephine,F,815
 Lucy,F,811
 Fannie,F,798
@@ -1316,7 +1316,7 @@ Thomas,M,2151
 Edward,M,2125
 Robert,M,2125
 Harry,M,2057
-Walter,M,1705
+Walter,M,1704
 Arthur,M,1489
 Fred,M,1454
 Albert,M,1294
@@ -1334,7 +1334,7 @@ Willie,M,590
 Carl,M,588
 Oscar,M,574
 Will,M,561
-Daniel,M,557
+Daniel,M,556
 Earl,M,537
 Andrew,M,520
 Benjamin,M,473
@@ -1351,7 +1351,7 @@ Lee,M,400
 Herman,M,394
 Claude,M,375
 Raymond,M,372
-Michael,M,345
+Michael,M,344
 Lewis,M,343
 Jim,M,339
 Martin,M,331
@@ -1740,7 +1740,6 @@ Lawson,M,16
 Phil,M,16
 Rollie,M,16
 Roman,M,16
-Steven,M,16
 Terry,M,16
 Alton,M,15
 Early,M,15
@@ -1759,6 +1758,7 @@ Pierce,M,15
 Raleigh,M,15
 Randolph,M,15
 Santiago,M,15
+Steven,M,15
 Thad,M,15
 Valentine,M,15
 Wilmer,M,15
