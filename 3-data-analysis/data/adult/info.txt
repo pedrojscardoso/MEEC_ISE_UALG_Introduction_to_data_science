@@ -1,0 +1,2 @@
+Downloaded from https://www.kaggle.com/datasets/wenruliu/adult-income-dataset?select=adult.csv
+[2023-04-07]
