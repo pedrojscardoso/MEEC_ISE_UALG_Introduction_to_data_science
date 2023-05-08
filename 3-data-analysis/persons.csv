@@ -1,0 +1,9 @@
+,name,age,gender,country,pet,height,classification
+0,Margaret,17,F,Pt,cat,170.0,4
+1,John,13,M,Pt,dog,172.0,3
+2,Claudia,44,F,Pt,fish,178.0,2
+3,Mary,55,F,Pt,cat,160.0,5
+4,Peter,71,M,Pt,cat,165.0,1
+5,Helga,7,F,Pt,fish,150.0,7
+6,Heidi,16,F,Pt,bird,151.0,6
+7,Mary,70,F,Pt,cat,,7
