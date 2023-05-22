@@ -1,0 +1,1 @@
+file "imdb_data.csv.zip" contains the comment on the "pos" and "neg" reviews at folder "train"
