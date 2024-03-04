@@ -1,0 +1,96 @@
+[
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdef"},
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "dateOfBirth":  {"$date": "1990-01-01T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Laptop", "datePurchased":  {"$date": "2023-01-15T00:00:00Z"}},
+      {"productName": "Smartphone", "datePurchased":  {"$date": "2023-02-20T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcded"},
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "dateOfBirth":  {"$date": "1985-05-10T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Tablet", "datePurchased":  {"$date": "2023-03-11T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdff"},
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "dateOfBirth":  {"$date": "1992-07-22T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Headphones", "datePurchased":  {"$date": "2023-01-30T00:00:00Z"}},
+      {"productName": "Bluetooth Speaker", "datePurchased":  {"$date": "2023-02-14T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcde1"},
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "dateOfBirth":  {"$date": "1988-03-14T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "E-reader", "datePurchased":  {"$date": "2023-04-05T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdab"},
+    "name": "Sarah Miller",
+    "email": "sarah.miller@example.com",
+    "dateOfBirth":  {"$date": "1993-10-30T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Digital Camera", "datePurchased":  {"$date": "2023-03-21T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdbb"},
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson@example.com",
+    "dateOfBirth":  {"$date": "1986-12-15T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Smartwatch", "datePurchased":  {"$date": "2023-01-08T00:00:00Z"}},
+      {"productName": "Fitness Tracker", "datePurchased":  {"$date": "2023-02-25T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdcc"},
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@example.com",
+    "dateOfBirth":  {"$date": "1995-08-19T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Gaming Console", "datePurchased":  {"$date": "2023-03-30T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcddd"},
+    "name": "William Garcia",
+    "email": "william.garcia@example.com",
+    "dateOfBirth":  {"$date": "1987-04-23T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "VR Headset", "datePurchased":  {"$date": "2023-02-10T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdee"},
+    "name": "Sophia Rodriguez",
+    "email": "sophia.rodriguez@example.com",
+    "dateOfBirth":  {"$date": "1994-11-05T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Drone", "datePurchased":  {"$date": "2023-01-20T00:00:00Z"}}
+    ]
+  },
+  {
+    "_id": {"$oid":"5f50c31e1234567890abcdaa"},
+    "name": "James Hernandez",
+    "email": "james.hernandez@example.com",
+    "dateOfBirth":  {"$date": "1989-09-09T00:00:00Z"},
+    "boughtProducts": [
+      {"productName": "Smart TV", "datePurchased":  {"$date": "2023-03-05T00:00:00Z"}},
+      {"productName": "Wireless Earbuds", "datePurchased":  {"$date": "2023-04-15T00:00:00Z"}}
+    ]
+  }
+]
