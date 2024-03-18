@@ -1,5 +1,9 @@
 *.DS_Store
 .idea/*
+
+1-Databases/.idea/*
+3-data-analysis/.idea/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
