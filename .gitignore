@@ -3,6 +3,9 @@
 
 1-Databases/.idea/*
 3-data-analysis/.idea/*
+4-dashboarding/.idea/*
+4-dashboarding/Tests
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
