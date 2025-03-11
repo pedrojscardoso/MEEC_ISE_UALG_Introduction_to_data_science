@@ -22,21 +22,6 @@ app.config['MONGO_URI'] = 'mongodb://localhost:27017/sensorsDB'
 mongo = PyMongo(app)
 
 
-# Example of a custom encoder subclassing JSONEncoder - this is necessary to handle the ObjectId type
-class MongoJsonEncoder(json.JSONEncoder):
-    """JSON encoder for Mongo ObjectID.
-    if the object is an ObjectId, it will be converted to a string.
-    If the object is not an ObjectId, it will call the default JSON encoder.
-    """
-    def default(self, obj):
-        if isinstance(obj, ObjectId):
-            return str(obj)
-        return super().default(obj)
-
-# Set the custom encoder as the default encoder for the app
-app.json_encoder = MongoJsonEncoder
-
-
 @app.route('/', methods=['GET'])
 def index_mongo():
     # Access MongoDB collection
