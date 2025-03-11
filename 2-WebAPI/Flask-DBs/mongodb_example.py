@@ -3,7 +3,7 @@
 # Make sure to install the following packages
 # pip install flask==2.2.3
 # pip install Werkzeug==2.3.7
-# pip install flask-mongo
+# pip install Flask-PyMongo
 
 
 from flask import Flask, jsonify, json
