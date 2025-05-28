@@ -137,3 +137,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 3-data-analysis/data/weather_data/.cache.sqlite
+anaconda_projects/db/project_filebrowser.db
