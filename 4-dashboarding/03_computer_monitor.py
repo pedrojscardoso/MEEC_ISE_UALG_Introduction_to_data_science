@@ -56,16 +56,16 @@ def update_widgets():
 
     # update the gauges with the maximum value of the last 5 rows
     steps = 5
-    cpu_gauge_pane.value = df['cpu'].iloc[-steps:].max().round(2)
-    memory_gauge_pane.value = df['memory'].iloc[-steps:].max().round(2)
+    cpu_gauge_pane.value = df['cpu'].iloc[-steps:].max()
+    memory_gauge_pane.value = df['memory'].iloc[-steps:].max()
 
     # update the linear gauges with the maximum value of the last 5 rows
-    cpu_linear_gauge_pane.value = df['cpu'].iloc[-steps:].max().round(2)
-    memory_linear_gauge_pane.value = df['memory'].iloc[-steps:].max().round(2)
+    cpu_linear_gauge_pane.value = df['cpu'].iloc[-steps:].max()
+    memory_linear_gauge_pane.value = df['memory'].iloc[-steps:].max()
 
     # update the indicators with the maximum value of the last 5 rows
-    cpu_indicator_pane.value = df['cpu'].iloc[-steps:].max().round(2)
-    memory_indicator_pane.value = df['memory'].iloc[-steps:].max().round(2)
+    cpu_indicator_pane.value = df['cpu'].iloc[-steps:].max()
+    memory_indicator_pane.value = df['memory'].iloc[-steps:].max()
 
 
 
