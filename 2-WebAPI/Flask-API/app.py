@@ -1,8 +1,15 @@
 import os
 
-from library.app_00_intro import app
+# comment out the line below to run the other examples
+# app_00_intro - intro version with a simple "hello world"
+# from library.app_00_intro import app
+
+# app_01_a_first_get - version with a simple GET
 # from library.app_01_a_first_get import app
-# from library.app_01_a_first_get_and_post import app
+
+# app_02_CRUD - version with CRUD operations
+from library.app_02_CRUD import app
+
 
 if __name__ == '__main__':
     app.debug = True

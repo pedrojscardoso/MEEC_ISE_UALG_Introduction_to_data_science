@@ -1,9 +1,17 @@
+"""
+Example 5: Advanced Template Rendering
+This script is nearly identical to routes4.py, but it demonstrates 
+that by simply hitting a different template file ('index3.html'), 
+we can completely change the presentation of the same data using 
+features like Template Inheritance (e.g., {% extends "base.html" %}).
+"""
 from flask import render_template
 from app import app
 
 @app.route('/')
 @app.route('/index')
 def index():
+    # Mock data representing multiple IoT things
     things = [
         {
             'id': 1,
@@ -24,4 +32,6 @@ def index():
             ]
         }
     ]
+    
+    # Rendering index3.html which likely extends a base layout
     return render_template('index3.html', title='Sensors Home!', things=things)
