@@ -1,0 +1,68 @@
+John Doe
+123 Main St, Springfield, IL 62704
+Phone: (217) 555-1234
+Email: john.doe@example.com
+
+Jane Smith
+456 Elm St, Apt 7B, New York, NY 10001
+Phone: 212-555-5678
+Email: jane_smith123@work-mail.net
+
+Acme Corp
+789 Oak Ave, Suite 300, Los Angeles, CA 90015
+Phone: +1-310-555-9012
+Email: contact@acmecorp.co
+
+Random text for testing:
+- support@website.org
+- 555-0000
+- 1600 Pennsylvania Ave NW, Washington, DC 20500
+- (800) 123-4567
+- info@my-site.io
+- 987 Maple Rd, Boston, MA 02118
+- 617.555.4321
+- helpdesk@university.edu
+
+Additional entries:
+Dr. Emily Zhang
+P.O. Box 12345, Palo Alto, CA 94301
+Mobile: 650-321-0000
+Email: emily.zhang@stanford.edu
+
+Mr. Carlos Ruiz
+Calle 45 #123, 28010 Madrid, Spain
+Tel: +34 91 555 6789
+Email: carlos_ruiz@correo.es
+
+Ms. Priya Patel
+Flat 4B, 22 Baker Street, London, W1U 3BW, UK
+Telephone: +44 20 7946 0958
+Email: priya.patel1990@mail.co.uk
+
+Order confirmations:
+Order #123456 on 2023-09-15
+Order #987654 on 2024-02-28
+
+Websites:
+https://www.example.com
+http://blog.my-site.io/posts/2024/03/regex-tips
+www.testsite.net
+
+Credit Card Numbers (fake for testing):
+4111 1111 1111 1111
+5500-0000-0000-0004
+
+Dates:
+12/31/2024
+2024-04-22
+April 22, 2025
+
+Miscellaneous:
+- admin@company.biz
+- (555)555-5555
+- 12345
+- 42 Wallaby Way, Sydney, NSW 2000, Australia
+- 555.867.5309
+- 5551234567
+- 1 Infinite Loop, Cupertino, CA 95014
+- info@startup.ai
